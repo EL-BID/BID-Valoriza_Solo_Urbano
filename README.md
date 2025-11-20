@@ -133,7 +133,7 @@ O usuário poderá efetuar a simulação de valorização do solo urbano em qual
 ### Licença
 
 ---
-O código fonte é liberado sob uma licença GNU GPL v3. Por favor, consulte 
+Por favor, consulte 
 [LICENSE.md](https://github.com/BIDValoraSoloUrbano/BID-Valoriza_Solo_Urbano/blob/master/LICENSE.md) para mais informações.
 
 ---
